@@ -53,3 +53,55 @@ Helps developers and stakeholders visualize user interactions and plan logic and
 ---
 
 Wireframes should remain simple and focus on structure and flow—leaving detailed visual styling (like colors and fonts) to the next stage in the design process.
+
+## Types of Wireframes
+
+Wireframes can vary in complexity depending on the stage of the design process. The two most common types are **low-fidelity** and **high-fidelity** wireframes.
+
+### Low-Fidelity Wireframes
+
+Low-fidelity wireframes are basic sketches or outlines that focus on layout and structure without detailed design. They often use simple shapes, placeholders, and minimal text.
+
+**Characteristics:**
+- Hand-drawn or created with basic tools
+- No color, styling, or images
+- Focused on content placement and flow
+
+**When to Use:**
+- Early stages of design
+- Brainstorming and idea exploration
+- Rapid prototyping and feedback from stakeholders
+
+**Example Use Case:**
+Sketching a homepage layout on paper during a planning meeting.
+
+---
+
+### High-Fidelity Wireframes
+
+High-fidelity wireframes are detailed representations that closely resemble the final product. They include exact spacing, typography, and even some interactive elements.
+
+**Characteristics:**
+- Digitally designed using tools like Figma or Adobe XD
+- Includes detailed UI components
+- Often shows real or close-to-final content
+
+**When to Use:**
+- Later stages of design
+- Finalizing layout before development
+- Usability testing and stakeholder approval
+
+**Example Use Case:**
+Creating a clickable prototype for user testing.
+
+---
+
+## What Type of Wireframe is This?
+
+> _(You would replace this section with an actual image or file reference to your wireframe, and describe it here.)_
+
+
+**Type:** Low-Fidelity Wireframe
+
+**Explanation:**
+This wireframe uses simple boxes to represent images, text, and navigation areas. There are no colors or detailed design elements, making it ideal for early-stage planning and layout discussions.
